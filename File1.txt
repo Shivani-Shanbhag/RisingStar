@@ -18,3 +18,4 @@ change3 : bug fix for WI5
 
 change4 : bug fix for WI5
 
+change6 : update to check the push on origin master
