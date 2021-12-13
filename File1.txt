@@ -18,4 +18,6 @@ change3 : bug fix for WI5
 
 change4 : bug fix for WI5
 
-change6 : update to check the push on origin master
+change6 : update to check the push on origin master updated on remote master
+
+Change7 : File1 updated by team mate on remote master
